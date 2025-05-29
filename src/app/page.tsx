@@ -43,8 +43,8 @@ export default function Home() {
             <div className="grid grid-cols-1 sm:grid-cols-2  w-full gap-6 sm:p-17 p-4 bg-[#FAAEBD] rounded-lg">
               <div className="">
                 <Image
-                  src="/gemeas.jpg"
-                  alt="Banner Image"
+                  src="/gemeas.JPG"
+                  alt="gemeas"
                   width={800}
                   height={300}
                   className=" w-50 sm:w-full object-cover rounded-lg h-50 sm:h-100 "
