@@ -39,7 +39,7 @@ export default function CardContato2() {
                         <div className='bg-[#FAAEBD] p-4 rounded-full '>  <PhoneCall size={30} /></div>
                         <h2 className={`${montserrat.className}`}>Whatsapp:</h2>
                         <Link 
-                            href=""
+                            href="https://api.whatsapp.com/send/?phone=5581984621717&text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+os+servi%C3%A7os+da+Moove.+&type=phone_number&app_absent=0"
                             target='_blank'
                             >
                         <p className={`${poppins.className} text-gray-600`}>(81) 984621717 </p>
@@ -51,7 +51,7 @@ export default function CardContato2() {
                         <div className='bg-[#FAAEBD] p-4 rounded-full '>     <Instagram size={30} /> </div>
                         <h2 className={`${montserrat.className}`}>instagram:</h2>
                         <Link 
-                            href=""
+                            href="https://www.instagram.com/moove.agc/?igsh=Zm5lYjlxMzd6NDg5#"
                             target='_blank'
                             >
                         <p className={`${poppins.className} text-gray-600`}> moove.agc</p>
